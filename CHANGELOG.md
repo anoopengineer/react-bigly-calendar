@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2020-05-12)
+
+
+### Features
+
+* Initial commit ([3d08773](https://www.github.com/anoopengineer/react-bigly-calendar/commit/3d08773caa0deffc36f7db8edcfb01a4f732910b))
+
 ### [1.1.1](https://www.github.com/anoopengineer/react-bigly-calendar/compare/v1.1.0...v1.1.1) (2020-05-11)
 
 
